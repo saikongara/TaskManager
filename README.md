@@ -32,9 +32,32 @@ TaskManager is a project management tool designed to help teams organize, track,
 ### Running the Application
 To start the application locally, run:
 ```sh
-npm start
+npm run dev
 ```
 The application will be available at `http://localhost:3000`.
+
+#### Application Interface
+Once the application is running, you will see the main interface as shown below:
+
+![Main Interface](path/to/main-interface-screenshot.png)
+
+- **Add New Task**: Click this button to create a new task.
+- **Search tasks**: Use this search bar to find specific tasks.
+- **Filter by tags**: Filter tasks based on tags like work, planning, meetings, etc.
+- **Task Status**: View tasks categorized under "Upcoming" and "Completed".
+
+#### Creating a New Task
+To create a new task, click on the "Add New Task" button. A form will appear as shown below:
+
+![New Task Form](path/to/new-task-form-screenshot.png)
+
+- **Title**: Enter the title of the task.
+- **Description**: Provide a detailed description of the task.
+- **Due Date**: Set the due date for the task.
+- **Priority**: Select the priority level (e.g., Low, Medium, High).
+- **Tags**: Add relevant tags to categorize the task.
+
+After filling out the form, click "Create Task" to add the task to your list.
 
 ### Running Tests
 To run the tests, use:
@@ -60,8 +83,8 @@ We welcome contributions to improve TaskManager. To contribute, follow these ste
 5. Create a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. You can view the full text of the license in the [LICENSE](LICENSE) file.
 
 ## Contact
-For any questions or feedback, please contact [skongar1](https://github.com/skongar1).
+For any questions or feedback, please contact [saikongara](https://github.com/saikongara).
 
