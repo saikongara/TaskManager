@@ -18,7 +18,7 @@ TaskManager is a project management tool designed to help teams organize, track,
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/skongar1/TaskManager.git
+    git clone https://github.com/saikongara/TaskManager.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -39,7 +39,7 @@ The application will be available at `http://localhost:3000`.
 #### Application Interface
 Once the application is running, you will see the main interface as shown below:
 
-![Main Interface](path/to/main-interface-screenshot.png)
+![Main Interface](./assets/images/main-interface-screenshot.png)
 
 - **Add New Task**: Click this button to create a new task.
 - **Search tasks**: Use this search bar to find specific tasks.
@@ -49,7 +49,7 @@ Once the application is running, you will see the main interface as shown below:
 #### Creating a New Task
 To create a new task, click on the "Add New Task" button. A form will appear as shown below:
 
-![New Task Form](path/to/new-task-form-screenshot.png)
+![New Task Form](./assets/images/new-task-form-screenshot.png)
 
 - **Title**: Enter the title of the task.
 - **Description**: Provide a detailed description of the task.
@@ -82,9 +82,6 @@ We welcome contributions to improve TaskManager. To contribute, follow these ste
     ```
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. You can view the full text of the license in the [LICENSE](LICENSE) file.
 
 ## Contact
 For any questions or feedback, please contact [saikongara](https://github.com/saikongara).
-
