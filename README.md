@@ -1,13 +1,11 @@
 # TaskManager
 
 ## Overview
-TaskManager is a project management tool designed to help teams organize, track, and manage their tasks efficiently. It provides features such as task creation, assignment, tracking progress, and collaboration.
+TaskManager is a tool designed to help users organize and manage their tasks. It provides features such as task creation, assignment, and tracking progress.
 
 ## Features
 - Task creation and assignment
 - Progress tracking
-- Collaboration tools
-- Notifications and reminders
 
 ## Getting Started
 
